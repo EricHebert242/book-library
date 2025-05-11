@@ -39,7 +39,7 @@ A full-stack Next.js application with Tailwind CSS, shadcn/ui, Prisma and Postgr
 - Prisma
 - PostgreSQL
 
-### Creating a Next.js Project with Tailwind, shadcn/ui, Prisma and connect to Neon Postgresql
+# Creating a Next.js Project with Tailwind, shadcn/ui, Prisma and connect to Neon Postgresql
 
 ## Step 1: Create a New Next.js Project
 
